@@ -46,5 +46,5 @@ A **Streamlit web app** that automatically detects dataset type (like Employee, 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/offline-data-normalizer.git
+git clone https://github.com/ZohaiAli/offline-data-normalizer.git
 cd offline-data-normalizer
